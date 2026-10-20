@@ -1,10 +1,10 @@
 # IAR Documentation MCP Server
 
-The IAR Documentation MCP Server gives AI assistants access to the official IAR documentation published on [docs.iar.com](https://docs.iar.com), enabling more accurate answers about compiler options, pragmas, linker configuration, project settings, debugging, probes, and related topics.
+The IAR Documentation MCP Server gives AI assistants access to the official IAR documentation published on [docs.iar.com](https://docs.iar.com), enabling authoritative replies to questions about reference information, troubleshooting, and workflows.
 
 ## Why use it?
 
-Instead of searching documentation manually, you can ask your AI assistant questions in natural language and get answers grounded in the same documentation available on docs.iar.com, often with links to the original source material.
+Instead of searching the documentation manually, you can ask your AI assistant questions in natural language and get answers grounded in the same documentation available on docs.iar.com, often with links to the original source material.
 
 Example questions:
 
@@ -102,7 +102,7 @@ Once connected, simply ask questions about IAR products in natural language.
 
 For best results:
 
-- Specify the IAR product and version (EWARM, EWRISCV, EWRX, EWRH850, EWRL78, etc.).
+- Specify the IAR product and version (EWARM 10.10, EWRISCV 3.40, EWRX 5.20, etc.).
 - Mention the target architecture when relevant.
 - Include the exact compiler option, pragma, linker directive, or diagnostic number when available.
 - Include error messages verbatim when troubleshooting build or linker issues.
