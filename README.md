@@ -8,9 +8,9 @@ Instead of searching documentation manually, you can ask your AI assistant quest
 
 Example questions:
 
-- What does diagnostic Pe188 mean?
 - How does `#pragma location` work in EWARM?
 - How do I configure a debug probe for my target?
+- How can I use C-SPY to trace the cause of a hard fault?
 
 ---
 
