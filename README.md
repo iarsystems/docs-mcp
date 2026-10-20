@@ -123,8 +123,6 @@ Documentation coverage will continue to expand over time, with future product re
 - IAR Embedded Workbench for RX (EWRX) 5.20
 - IAR debug probes documentation
 - IAR Library and Migration Support documentation (LMSC)
-- IAR Orbit 6.40
-- IAR Secure Deploy Platform (SDP) 6.40
 
 ---
 
