@@ -77,7 +77,7 @@ Create or edit `~/.cursor/mcp.json`:
 
 If your plan supports custom MCP connectors:
 
-1. Open **Settings**
+1. Open **Customize**
 2. Go to **Connectors**
 3. Select **Add Custom Connector**
 4. Enter:
