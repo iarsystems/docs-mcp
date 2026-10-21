@@ -22,6 +22,12 @@ Example questions:
 
 ## Installation
 
+* [Claude Code](#claude-code)
+* [Visual Studio Code (GitHub Copilot Agent Mode)](#visual-studio-code-github-copilot-agent-mode)
+* [Cursor](#cursor)
+* [Claude Desktop / Claude.ai](#claude-desktop--claudeai)
+* [Other MCP Clients](#other-mcp-clients)
+
 ### Claude Code
 
 Add the server for the current project:
